@@ -23,8 +23,8 @@ on:
 env:
   # please change to your own config.
   RUN_TYPE: garmin_cn # support strava/nike/garmin/coros/garmin_cn/garmin_sync_cn_global/keep/only_gpx/only_fit/nike_to_strava/strava_to_garmin/strava_to_garmin_cn/garmin_to_strava/garmin_to_strava_cn/codoon, Please change the 'pass' it to your own
-  ATHLETE: 杨军
-  TITLE: 杨军 Running
+  ATHLETE: 咕咕唧唧
+  TITLE: 咕咕唧唧 Running
   MIN_GRID_DISTANCE: 1 # change min distance here
   TITLE_GRID: Over 1km Runs # also here
   GITHUB_NAME: almosting # change to yours
