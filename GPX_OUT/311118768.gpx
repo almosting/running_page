@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx creator="Garmin Connect" version="1.1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd"
+  xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+  <metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2024-01-14T23:03:54.000Z</time>
+  </metadata>
+  <trk>
+    <name>Floor Climb</name>
+    <desc>爬楼梯对于我来说，没有腿部不适感。唯一的是昨天爬完楼梯，下午睡觉睡得有点久。导致晚上就迟迟进入不了睡眠状态。今早起来时感觉休息不够充分，但是为了保证一定的体能状况还是去爬了24×5=120层吧。
+最近看书也看得是坂本龙一的。</desc>
+    <type>floor_climbing</type>
+    <trkseg/>
+  </trk>
+</gpx>
